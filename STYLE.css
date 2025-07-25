@@ -1,0 +1,57 @@
+body{
+    background-image: url('image/background.png');
+}
+
+.MainText{
+    color:yellow;
+    text-align:center;
+    font-size:30px;
+}
+
+.WarningStrip{
+    text-align:center;
+}
+
+.Sirena1{
+    position:absolute;
+    top:300px;
+    left:50px;
+
+}
+
+.Sirena2{
+    position:absolute;
+    top:300px;
+    right:50px;
+}
+
+.CatSign{
+    text-align:center;
+    color:yellow;
+    font-size:30px;
+    border:1px solid white;
+}
+
+.MyBantik{
+    position:absolute;
+    left:260px;
+    border:1px solid white;
+}
+
+.MyBantik2{
+    position:absolute;
+
+}
+
+.Cirno{
+    position:absolute;
+    top:1620px;
+
+}
+
+.Scarlet{
+    position:absolute;
+    top:1610px;
+    right:5px;
+}
+
